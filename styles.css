@@ -12,7 +12,7 @@ html, body{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    margin-bottom: 710px;
+
   }
 form {
     display: flex;
@@ -260,5 +260,4 @@ form {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 307px;
   }
