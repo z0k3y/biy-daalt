@@ -12,7 +12,7 @@ html, body{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-
+ 
   }
 form {
     display: flex;
@@ -204,6 +204,7 @@ form {
     background: linear-gradient(45deg, var(--i), var(--j));
     opacity: 0;
     transition: 0.5s;
+   
   }
 
   ul li:hover::before{
